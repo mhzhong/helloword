@@ -1,2 +1,2 @@
 # helloword
-My first repository on GitHub
+I am so glad that I can I have my first repository on GitHub!
